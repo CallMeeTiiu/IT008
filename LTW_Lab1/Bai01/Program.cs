@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LTW_Lab1
+namespace Bai01
 {
     class Program
     {
